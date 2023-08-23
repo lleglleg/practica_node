@@ -1,0 +1,33 @@
+{
+  "name": "practica_node",
+  "version": "1.0.0",
+  "description": "practica para puesto node.js🚀",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleglleg/practica_node.git"
+  },
+  "keywords": [
+    "API",
+    "express"
+  ],
+  "author": "Diego Ramirez (lleglleg)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleglleg/practica_node/issues"
+  },
+  "homepage": "https://github.com/lleglleg/practica_node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "node-fetch": "^2.6.13",
+    "npm": "^9.8.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
